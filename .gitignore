@@ -61,3 +61,4 @@ target/
 session/
 errors/
 *.table
+*.bak
